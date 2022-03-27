@@ -1,0 +1,11 @@
+To execute SQL queries, such as the following, which creates and populates a table: %%sql 
+
+CREATE TABLE mytable(foo varchar(5), bar integer); 
+
+INSERT INTO mytable VALUES ('bar', 4); 
+
+INSERT INTO mytable VALUES ('asdf', 4); 
+
+INSERT INTO mytable VALUES ('bqear', 3); 
+
+INSERT INTO mytable VALUES ('sdf', 4);
